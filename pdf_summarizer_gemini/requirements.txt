@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+pypdf
+faiss-cpu
+langchain
+langchain-text-splitters
+numpy
